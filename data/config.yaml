@@ -1,0 +1,25 @@
+name: Jacky Zhao
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: false
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: false
+GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description:
+  我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成。
+page_title:
+  "🌿 oldwinterの数字花园"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/_jzhao
+  - link_name: Github
+    link: https://github.com/jackyzha0
